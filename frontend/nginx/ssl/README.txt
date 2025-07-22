@@ -1,0 +1,1 @@
+Place your SSL certificate (fullchain.pem) and private key (privkey.pem) in this directory for Nginx to enable HTTPS in production. 
